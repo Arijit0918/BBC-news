@@ -1,0 +1,225 @@
+#top{
+    width: 1500px;
+    margin: 0 auto;
+    height: 40px;
+    float: left;
+}
+ body{
+     margin: 0;
+     padding: 0;
+     font-family: Helvetica, Arial, sans-serif;
+ }
+ #logo{
+     margin-top: 8px;
+     margin-right: 11px;
+     margin-left: 15px;
+     float: left;
+     width: 80px;
+
+ }
+ .topbar{
+     float: left;
+     border-left: 1px #CCCCCC solid;
+     height: 100%;
+ }
+ #sign{
+     width: 25px;
+     margin:11px 10px;
+     float: left;
+     }
+     #signin-text{
+        font-weight: bold;
+        position: relative;
+        top: 15px;
+        font-size: small;
+        padding-right: 90px;
+     }
+    .news{
+       font-weight: bold;
+       margin-left:  18px;
+       margin-right: 18px;
+       font-size: small;
+       position: relative;
+       top: 13px;
+       float: left;
+    }
+    #dropdown{
+        width:16px;
+        position: relative;
+        top: 18px;
+        margin-left: 10px;
+        margin-right: 20px;
+    }
+    #search{
+        margin: 5px 0px 5px 5px;
+        padding: 5px;
+        float: left;
+        font-weight: bold;
+        background-color: #E4E4E4;
+        border: none;
+    }
+    #magnify{
+        margin-top: 5px;
+        width: 25px;
+
+    }
+    .clear{
+        clear: both;
+    }
+    #menu{
+        background-color: #BB1919;
+        height: 95px;
+    }
+    #headline{
+        color: white;
+        font-size: 40px;
+        margin-left: 18px;
+        position: relative;
+        top: 11px;
+    }
+    #menubar{
+       width: 1500px;
+    margin: 0 auto;
+    }
+    #menubar a{
+        color: white;
+        margin-left: 5px;
+        border-right: #BB4545 solid 1px;
+        text-decoration: none;
+        font-size: 14px;
+        padding: 0 8px;
+        position: relative;
+        top: 5px; 
+    }
+    #menubar a:hover{
+        text-decoration: underline;
+    }
+    .noborder{
+       border: none !important; 
+    }
+    #arrow{
+        height: 10px;
+        position: relative;
+        top: 6px;
+        right: 10px;
+    }
+    #main-container{
+        width: 1200px;
+        margin-left: 15px;
+        float: left;
+    }
+    h2{
+        margin-top: 12px;
+        font-weight: normal;
+        font-size: 20px;
+        border-bottom: 3px #BB1919 solid;
+        width: 42px; 
+       }
+    #ali{
+        text-decoration: none;
+        color: grey;
+        font-weight: bold;
+        font-size: 25px;
+    }  
+    #main-container a:hover{
+        text-decoration: underline;
+        color: #1167a8;
+    } 
+    #alibaba{
+        width: 490px;
+    }
+    #article-summary{
+        margin-top: 12px;
+        font-size: 15px;
+        float :left;
+        width: 490px;
+        color: #5A5A5A;
+    }
+    #clock{
+        height: 20px;
+        position: relative;
+        top: 4px;
+    }
+    .buisness{
+        margin-left:4px;
+        text-decoration: none;
+        font-size: 14px;
+        font-weight: bold;
+        color: black;
+        border-left: 1px solid #CCCCCC;
+        padding-left: 6px;
+    } 
+    #article-summary a{
+        font-weight: bold;
+        color: black;
+        text-decoration: none;
+        padding-right: 2px;
+    }
+    #biden a{
+        font-weight: bold;
+        color: black;
+        text-decoration: none;
+        padding-right: 2px;
+    }
+    #list{
+        padding-left:14px ;
+    }
+    #biden{
+        width: 260px;
+        float: right;
+        position: relative;
+        bottom: 380px;
+        right: 400px;
+    }
+    .sideline-text{
+        font-size: 14.3px;
+        color: #5A5A5A;
+    }
+    .miniclock{
+        height: 16px;
+        position: relative;
+        top: 2px;
+    }
+    .d{
+        font-size:14px;
+        color: #5A5A5A;
+    }
+    .biden-image{
+        padding-bottom: 12px;
+        width: 260px;
+    }
+    .buisness1{
+      
+        text-decoration: none;
+        font-size: 14px;
+        color: black;
+        font-weight: bold;
+     
+    }
+    #fbi{
+        width: 260px;
+        float: right;
+        position: relative;
+        bottom: 380px;
+        left: 200px;
+    }
+    #xbox{
+        width: 260px;
+        float: right;
+        position: relative;
+        bottom: 200px;
+        left: 120px;
+    }
+    #apple{
+        width: 260px;
+        float: right;
+        position: relative;
+        bottom: 200px;
+        left: 720px;
+    }
+    #thisis{
+        text-decoration: underline !important;
+    }
+    #alitext{
+        width: 520px;
+    }
