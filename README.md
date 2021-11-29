@@ -1,4 +1,1 @@
-"# BBC-news" 
-"# BBC-news" 
-"# BBC-news" 
-"# BBC-news" 
+" This is a clone of the tech page of bbc news website" 
